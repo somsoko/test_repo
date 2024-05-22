@@ -1,1 +1,2 @@
 b.txt
+This is written in GitHub
